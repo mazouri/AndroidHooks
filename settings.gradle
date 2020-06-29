@@ -1,0 +1,3 @@
+include ':android-hooks'
+include ':app'
+rootProject.name = "AndroidHooks"
